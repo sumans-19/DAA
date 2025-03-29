@@ -1,4 +1,4 @@
-10. Implement All-Pairs Shortest Paths Problem using Floyds algorithm.
+
 import java.util.Scanner;
 public class Floyds
 {
